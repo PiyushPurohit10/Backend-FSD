@@ -9,7 +9,7 @@ app.get('/',(req,res)=>{
             return;
         } 
         else {
-            res.send(data);
+            res.send(data); 
         }
     });
 });

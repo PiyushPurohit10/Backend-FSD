@@ -1,4 +1,4 @@
-Name: Piyush Gupta
+Name: Piyush Purohit
 Course: B.Tech CSE
-Email:guptapiyush@gmail.com
-College: ABES Engineering College............
+Email:purohitpiyush@gmail.com
+College: ABES Engineering College
